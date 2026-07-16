@@ -1,5 +1,3 @@
-# Volume-Amplifier-Android-App---Manual-Testing-Project-02
-
 # 📱 Volume Amplifier Android App - Manual Testing Project
 
 ## Project Overview
